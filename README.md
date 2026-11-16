@@ -22,5 +22,5 @@ Alok Upadhyay
 
 ## Acknowledgment
 
-This repository is maintained by Alok Upadhyay. It includes practical work shared with permission from Rinky Jaswani.
+This repository is maintained by Alok Upadhyay.
 
